@@ -1,0 +1,22 @@
+
+
+.table{
+    font-size: 15px;
+    border: solid;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+}
+
+.inputForm{
+    text-align: center;
+}
